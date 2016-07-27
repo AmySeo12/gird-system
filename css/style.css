@@ -1,0 +1,101 @@
+body {
+	font-family: Arial;
+}
+header{
+    margin:auto;
+    background: #151515 ;
+}
+.log{
+	width: 90px;
+}
+.logo{
+    padding: 20px;
+    display: inline-block;
+    width: 100px;
+}
+.derecho{
+    display: inline-block;
+    float: right;
+}
+header .derecho nav{
+    overflow: hidden;
+}
+header .derecho nav ul{
+    list-style: none;
+}
+header .derecho nav ul li{
+    padding-right: 20px;
+    padding-top: 60px;
+    text-align: center;
+    color:white;
+    float: right;
+   	font-size: 14px;
+}
+nav li a {
+	text-decoration:none;
+	color:#fff;
+}
+nav li a:hover {
+	background-color:#434343;
+}
+.plomo {
+	background: #EEEEEE;
+}
+.padding {
+	padding: 15px;
+	font-size: 16px;
+}
+.pequeño {
+	text-decoration: none;
+	font-size: 14px;
+	padding: 10px;
+}
+.img {
+	width: 200px;
+}
+.overhidden {
+	overflow: hidden;
+}
+.margin {
+	margin-top: 18px;
+}
+.centro {
+	text-decoration: none;
+	text-align: center;
+}
+.more {
+	font-size: 12px;
+	margin-left: 20px;
+	text-decoration: none;
+}
+.centro:hover {
+	color:#9E0000;
+}
+.img1 {
+	width: 100px;
+}
+.img, .img1 {
+	border: 3px double #CCCCCC;	
+}
+.-p {
+	font-size: 12px;
+}
+.border{
+	border-bottom: 1px solid #CCCCCC;
+}
+.mar-left {
+	margin-left: 10px; 
+}
+.mediano {
+	width: 15px;
+}
+.bor-arriba {
+	border-top: 1px solid #CCCCCC;
+	padding: 15px;
+}
+footer {
+	margin-top: 1150px; 
+	background: #585858;
+}
+
+
