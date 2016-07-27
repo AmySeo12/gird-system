@@ -34,6 +34,7 @@ header .derecho nav ul li{
 nav li a {
 	text-decoration:none;
 	color:#fff;
+	padding: 10px;
 }
 nav li a:hover {
 	background-color:#434343;
@@ -96,6 +97,27 @@ nav li a:hover {
 footer {
 	margin-top: 1150px; 
 	background: #585858;
+	color: white;
+}
+.color {
+	font-size: 12px;
+}
+footer nav ul{
+    list-style: none;
+    overflow: hidden;
+}
+footer nav ul li{
+    padding: 10px;
+    display: inline-block;
+}
+footer nav ul li a{
+    padding: 15px;
+    display: block;
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+    font-family: verdana;
+    text-align: center;
 }
 
 
