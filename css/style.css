@@ -1,5 +1,5 @@
 body {
-	font-family: Arial;
+	font-family: "Helvetica",Arial;
 }
 header{
     margin:auto;
@@ -94,8 +94,39 @@ nav li a:hover {
 	padding: 15px;
 }
 footer {
-	margin-top: 1150px; 
+	padding: 20px 0 35px 0;
+	margin: 0;
 	background: #585858;
+	color: #fff;	
+	font-size: 15px;
+	line-height: 28px;
+	margin-top: 1160px; 
+}
+
+footer p {
+	margin: 0 0 10px 0;
+}
+
+footer .bottom_links {
+  text-align: center;
+  margin: 15px 0 0 0;
+  font-size: 13px;	
+}
+
+footer .copyright {
+  margin: 20px 0 0 0;
+  text-align: center;
+  color: #999;
+  font-size: 11px;
+  line-height: 13px;	
+}
+
+footer a {
+  color: #ccc;
+}
+
+footer a:hover {
+	color: #fff;
 }
 
 
